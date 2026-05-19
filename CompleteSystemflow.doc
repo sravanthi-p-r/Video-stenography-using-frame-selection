@@ -1,0 +1,19 @@
+Input Video
+     |
+Frame Extraction
+     |
+Frame Analysis
+     |
+Frame Selection
+     |
+Secret Data Encryption
+     |
+Binary Conversion
+     |
+LSB / DCT Embedding
+     |
+Frame Reconstruction
+     |
+Stego Video Generation
+     |
+Extraction & Recovery
